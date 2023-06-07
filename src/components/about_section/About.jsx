@@ -17,10 +17,10 @@ const AboutSec = () => {
             </div>
             {/* disc */}
             <p className="text-[#ABB2BF] ">
-              Hello, i’m Elias!
+              Hello, i’m boluwatife!
               <br />
               <br />
-              I’m a self-taught front-end developer based in Kyiv, Ukraine. I
+              I’m a self-taught front-end developer based in lagos, Nigeria. I
               can develop responsive websites from scratch and raise them into
               modern user-friendly web experiences.
               <br />
@@ -42,7 +42,7 @@ const AboutSec = () => {
           </div>
           {/* right */}
           <div className=" mx-auto">
-            <img className="mx-auto" src={require("./imgs/man.png")} alt="" />
+            <img className="mx-auto" src={require("./imgs/bolu.jpg")} alt="" />
           </div>
         </div>
       </div>

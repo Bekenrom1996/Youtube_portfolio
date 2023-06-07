@@ -20,7 +20,7 @@ const Projects = () => {
     },
     {
       img: third,
-      langs: ["html", "css", "javascript", "Node.js", "python"],
+      langs: ["html", "css", "javascript", "Node.js", "php"],
       title: "Kahoot Answers Viewer",
       disc: "Get answers to your kahoot quiz ",
     },
